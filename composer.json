@@ -1,0 +1,15 @@
+{
+  "name": "resolventa/message-bus",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Andrey Petritsa",
+      "email": "andrey@petritsa.ru"
+    }
+  ],
+  "require": {
+    "symfony/messenger": "*"
+  }
+}
